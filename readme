@@ -1,1 +1,6 @@
 readme test file
+
+Work on your code
+Stage and commit your changes: git add <files> && Git commit -m <your message>
+Push your changes: git push origin main
+If others are working on the same project, pull their changes from the server with git pull origin main
